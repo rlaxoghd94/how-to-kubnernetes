@@ -11,3 +11,4 @@ Concepts
 - [Overview](./docs/concepts/overview/overview.md)
   - [Kubernetes Components](./docs/concepts/overview/kubernetes-components.md)
   - [Objects in Kubernetes](./docs/concepts/overview/objects-in-kubernetes.md)
+    - [Kubernetes Object Mangement](./docs/concepts/overview/objects-management.md)
