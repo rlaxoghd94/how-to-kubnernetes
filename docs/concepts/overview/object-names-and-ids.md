@@ -29,7 +29,7 @@ Most resource types require a name that can be used as a DNS subdomain name as d
 
 Some resource types require their names to be able to be safely encoded as a path segment. In other words, the name may not be "." or ".." and the name may not contain "/" or "%".
 
-Example: `nginx-demo` named Pod mianifest
+Example: `nginx-demo` named Pod manifest
 
 ```yaml
 apiVersion: v1

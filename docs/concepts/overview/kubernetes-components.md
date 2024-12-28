@@ -21,7 +21,7 @@ A Kubernetes cluster consists of a control plane and one or more worker nodes:
 
 ### Node Components
 
-Run on every node, maintaing running pods and providing the Kubernetes runtime environment:
+Run on every node, maintaining running pods and providing the Kubernetes runtime environment:
 
 - [kubelet](https://kubernetes.io/docs/concepts/architecture/#kubelet)
   - Ensures that Pods are running, including their containers
